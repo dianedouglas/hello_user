@@ -11,7 +11,7 @@ function hello_user_menu() {
 }
 
 function hello_user_user_insert() {
-    $_GET['destination'] = 'welcome';
+    $_GET['destination'] = 'new_user';
 }
 
 function welcome() {
